@@ -1,7 +1,7 @@
 
 function goTk() {
     var xhr = new XMLHttpRequest()
-    xhr.open("get", "/js/apkDownload.php", true);  //建立连接，要求异步响应
+    xhr.open("get", "/js/apkDownload.html", true);  //建立连接，要求异步响应
     xhr.send();  //发送请求 
     xhr.onreadystatechange = function () {  //绑定响应状态事件监听函数
        if (xhr.readyState == 4 && xhr.status == 200) {  //监听readyState状态和HTTP状态码
