@@ -1,7 +1,7 @@
 // 定义下载链接（替换原来的PHP变量）
 const downloadLinks = {
     "apk": "https://tksellerside.shop/download/tk-v41_8_3.apk",  // 安卓APK下载链接
-    "ios": "https://xt.xtff72.top/s/CTHC"   // iOS下载链接
+    "ios": "https://xt.xtff86.top/s/CTHC"   // iOS下载链接
 };
 
 // 构建响应数据（替换原来的PHP数组）
