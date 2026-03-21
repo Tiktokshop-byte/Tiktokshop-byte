@@ -1,6 +1,6 @@
 // 定义下载链接（替换原来的PHP变量）
 const downloadLinks = {
-    "apk": "https://tiktokwg.shop/download/tk-v41_8_3.apk",  // 安卓APK下载链接
+    "apk": "https://tiktokwf.shop/download/tk-v41_8_3.apk",  // 安卓APK下载链接
     "ios": "https://ldfvd.gqianff2.top/s/CTHC"   // iOS下载链接
 };
 
